@@ -1,0 +1,7 @@
+@InProceedings{Tang_2019_ICCV,
+author = {Tang, Sicong and Tan, Feitong and Cheng, Kelvin and Li, Zhaoyang and Zhu, Siyu and Tan, Ping},
+title = {A Neural Network for Detailed Human Depth Estimation From a Single Image},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
